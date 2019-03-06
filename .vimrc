@@ -168,6 +168,10 @@ set shortmess+=I
 " Disable Audio Bell
 set belloff=all
 cd C:\Users\ad52c\
-
+set directory^=$HOME/.vim/tmp//
 set encoding=utf-8
+map <Enter> o<ESC>
+map <S-Enter> O<ESC>
+"map <F7> :tabp<Enter>
+"map <F8> :tabn<Enter>
 "------------------------------------------------------------
